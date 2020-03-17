@@ -7,7 +7,7 @@
   font-size: 0.9em;
 }
 .message--unread {
-  border: 20px blue;
+  border-left: 10px solid blue;
 }
 .message__time--old {
   opacity: 0.3;
